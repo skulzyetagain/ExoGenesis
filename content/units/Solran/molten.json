@@ -21,8 +21,8 @@
 "height": 34
 }
 ],
-"singleTarget": flase,
-"omniMovement": flase,
+"singleTarget": false,
+"omniMovement": false,
 "rotateSpeed": 1.8,
 "armor": 12,
 "hitSize": 25,
